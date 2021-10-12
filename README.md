@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samifran
-- 👀 I’m interested in Games, Prgramming, Science and Math
+- 👀 I’m interested in Games, Programming, Science and Math
 - 🌱 I’m currently learning Minecraft and Unity
 - 💞️ I’m looking to collaborate on learning
 - 📫 How to reach me here =)
